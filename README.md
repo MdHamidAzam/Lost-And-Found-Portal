@@ -131,5 +131,4 @@ If you like this project, don't forget to ⭐ star the repository.
 ## 📜 License
 
 This project is licensed under the MIT License.
-
 Made with ❤️ by **Md Hamid Azam**
