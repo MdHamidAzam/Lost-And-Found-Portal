@@ -21,7 +21,6 @@ A simple, responsive, and user-friendly Lost & Found Portal built using HTML, CS
 - 📧 Form Submission Support (Formspree)
 - ⚡ Fast Static Website
 - 🌍 Deployed on Vercel
-
 ---
 
 ## 🛠️ Tech Stack
